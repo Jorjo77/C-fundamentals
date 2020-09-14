@@ -1,1 +1,2 @@
-Pesho
+Pesho uses Git
+Gosho also uses git
